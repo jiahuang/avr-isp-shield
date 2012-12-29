@@ -2935,13 +2935,14 @@ DPDT SMT slide switch, AYZ0202, SWCH-08179</description>
 <label x="102.87" y="102.87" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="20.32" y1="115.57" x2="20.32" y2="118.11" width="0.1524" layer="91"/>
-<label x="20.32" y="118.11" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
 <pinref part="U2" gate="G$1" pin="PB2(SCK/ADC1)"/>
 <wire x1="74.93" y1="52.07" x2="72.39" y2="52.07" width="0.1524" layer="91"/>
 <label x="67.31" y="52.07" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U4" gate="G$1" pin="D13"/>
+<wire x1="20.32" y1="116.84" x2="20.32" y2="118.11" width="0.1524" layer="91"/>
+<label x="20.32" y="118.11" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="MISO" class="0">
