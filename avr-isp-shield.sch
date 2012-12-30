@@ -2733,9 +2733,9 @@ DPDT SMT slide switch, AYZ0202, SWCH-08179</description>
 <part name="U3" library="SparkFun-DigitalIC" deviceset="ATMEGA328P_PDIP" device=""/>
 <part name="IC1" library="attiny24_44_84" deviceset="ATTINY24/44/84" device="-PU"/>
 <part name="C1" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2" value="10uF"/>
-<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="AXIAL-0.3" value="500Ohm"/>
-<part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="AXIAL-0.3" value="500Ohm"/>
-<part name="R3" library="SparkFun-Passives" deviceset="RESISTOR" device="AXIAL-0.3" value="500Ohm"/>
+<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="AXIAL-0.3" value="500"/>
+<part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="AXIAL-0.3" value="500"/>
+<part name="R3" library="SparkFun-Passives" deviceset="RESISTOR" device="AXIAL-0.3" value="500"/>
 <part name="LED1" library="SparkFun-LED" deviceset="LED" device="3MM"/>
 <part name="LED2" library="SparkFun-LED" deviceset="LED" device="3MM"/>
 <part name="LED3" library="SparkFun-LED" deviceset="LED" device="3MM"/>
