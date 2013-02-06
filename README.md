@@ -1,7 +1,5 @@
 #Arduino AVR Programming Shield
 
-##No clue if this works. Haven't tested it yet.
-
 Use an Arduino Uno to program other AVR chips by hooking up MOSI, MISO, SCK, RST, VCC, and GND for you so your fat fingers don't mess up the programming circuit while trying to pull out the programmed chip. 
 
 Designed for the following, but will work with chips that have the same pin setup:
@@ -16,6 +14,10 @@ Things that it does (differently?) from other AVR programming shields:
 * LED indicators on heartbeat/error/programming. The LEDs even include resistors so you won't get blinded watching for error signals.
 * Reset button for resetting the programmed chip without a power cycle
 * Slide switch to turn on/off the 10uF connecting cap between reset and ground. Because putting in and taking out a cap is too difficult.
+
+##The finished board
+![Finished board](https://raw.github.com/jiahuang/avr-isp-shield/master/images/shield_final.png
+)
 
 ##The board
 ![The board](https://raw.github.com/jiahuang/avr-isp-shield/master/images/board.png
