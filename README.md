@@ -16,7 +16,7 @@ Things that it does (differently?) from other AVR programming shields:
 * Slide switch to turn on/off the 10uF connecting cap between reset and ground. Because putting in and taking out a cap is too difficult.
 
 ##The finished board
-![Finished board](https://raw.github.com/jiahuang/avr-isp-shield/master/images/shield_final.png
+![Finished board](https://raw.github.com/jiahuang/avr-isp-shield/master/images/shield_final.jpg
 )
 
 ##The board
